@@ -1,6 +1,6 @@
 # Database Rivendita Auto
 
-## (table) Cars
+## Cars
 - id                        BINGINT PRIMARY KEY UNIQUE NOTNULL INDEX AUTO_INCREMENT
 - marca                     VARCHAR(30) NOTNULL 
 - modello                   VARCHAR(40) NOTNULL
